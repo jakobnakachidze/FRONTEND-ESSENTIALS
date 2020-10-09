@@ -29,8 +29,8 @@ Dat ziet er dan zo uit:
             <td>Belal</td>
         </tr>
         <tr>
-            <td>Arman</td>
-            <td>Hofman</td>
+            <td>vader</td>
+            <td>jakob</td>
         </tr>
     </tbody>
 </table>
