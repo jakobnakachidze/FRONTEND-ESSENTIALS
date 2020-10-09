@@ -1,3 +1,1 @@
-<script>
-    alert("link werkt");
-</script>
+ alert("link werkt");
