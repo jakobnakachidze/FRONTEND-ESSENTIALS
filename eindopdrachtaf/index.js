@@ -1,9 +1,9 @@
 var persoon = {
-    Voornaam : prompt("Wat is je Voornaam?"),
-    Achternaam : prompt("Wat is je Achternaam?"),
-    Email : prompt("Wat is je Email?"),
-    Leeftijd : prompt("Wat is je Leeftijd?"),
-    Woonplaats : prompt("Wat is je Woonplaats?"),
+    Voornaam : prompt("Voornaam?"),
+    Achternaam : prompt("Achternaam?"),
+    Email : prompt("email?"),
+    Leeftijd : prompt("hoe oud?"),
+    Woonplaats : prompt("Woonplaats?"),
    };
 
 document.querySelector("#voornaam").innerHTML = persoon.voornaam;
